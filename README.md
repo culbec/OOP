@@ -5,7 +5,7 @@ This repository contains my work on the Object Oriented Programming Course.
 ## Contents
 
 It focuses on developing interactive GUI applications using the Qt framework, but also it contains a
-small example of a C "complex" application resembling a [Family Budget]().
+small example of a C "complex" application resembling a [Family Budget](https://github.com/culbec/OOP/tree/main/Family_Budget_C).
 
 ### [Car Dealership](https://github.com/culbec/Qt_OOP_Cars)
 
